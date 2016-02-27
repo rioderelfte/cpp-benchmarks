@@ -1,0 +1,21 @@
+BasedOnStyle: WebKit
+
+AlignAfterOpenBracket: true
+AlignConsecutiveAssignments: true
+AlignOperands: true
+AlignTrailingComments: true
+AllowShortFunctionsOnASingleLine: None
+AlwaysBreakTemplateDeclarations: true
+BreakBeforeBinaryOperators: None
+BreakBeforeTernaryOperators: true
+ColumnLimit: 80
+IndentFunctionDeclarationAfterType: true
+KeepEmptyLinesAtTheStartOfBlocks: false
+NamespaceIndentation: None
+PointerBindsToType: false
+TabWidth: 4
+---
+Language: Cpp
+
+Cpp11BracedListStyle: true
+Standard: Cpp11

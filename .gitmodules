@@ -1,0 +1,6 @@
+[submodule "Celero"]
+	path = external/celero
+	url = git://github.com/DigitalInBlue/Celero.git
+[submodule "FindTBB"]
+	path = external/findTBB
+	url = git://github.com/justusc/FindTBB.git
